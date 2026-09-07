@@ -1,6 +1,4 @@
 const config = {
-  default: {
-    
-  }
+  default: {}
 };
 export default config;
