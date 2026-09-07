@@ -1,2 +1,3 @@
-import { defineWranglerConfig } from "@opennextjs/cloudflare";
-export default defineWranglerConfig({});
+import { defineConfig } from "@opennextjs/cloudflare";
+
+export default defineConfig({});
